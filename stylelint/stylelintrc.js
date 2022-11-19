@@ -27,11 +27,11 @@ module.exports = {
 		"declaration-colon-newline-after": null,
 		"declaration-empty-line-before": "never",
 		"function-linear-gradient-no-nonstandard-direction": null,
-		"indentation": "tab",
+		"indentation": 2,
 		"no-descending-specificity": null,
 		"no-empty-source": null,
 		"no-missing-end-of-source-newline": null,
-		"number-leading-zero": "never",
+		"number-leading-zero": "always",
 		"order/order": [
 			"custom-properties",
 			"declarations"
